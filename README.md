@@ -34,8 +34,7 @@
 
 <h3> 📫 How to reach me: </h3>
         - 📧 Email : naikmadan49@gmail.com <br>
-        - @icn-camera linkedIn : www.linkedin.com/in/madan-naik-388953177
-
+       
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning on ...
