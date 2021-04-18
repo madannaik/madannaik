@@ -1,9 +1,3 @@
-<html>
-<head>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-<script src="https://kit.fontawesome.com/b5cff000aa.js" crossorigin="anonymous"></script>
-</head>
-<body>
 ### Hi there 👋! I'm Madan
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -40,7 +34,7 @@
 
 <h3> 📫 How to reach me: </h3>
         - 📧 Email : naikmadan49@gmail.com <br>
-        - <i class="fab fa-linkedin-in"></i> linkedIn : www.linkedin.com/in/madan-naik-388953177
+        - @icn-camera linkedIn : www.linkedin.com/in/madan-naik-388953177
 
 <!--
 - 🔭 I’m currently working on ...
@@ -52,5 +46,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</body>
-</html>
+
