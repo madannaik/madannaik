@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Pursuing B.E degree in Computer Science.
 - 💼 &nbsp; Flutter developer and Full-Stack web developer.
 - 🌱 &nbsp; Enthusiast in Data Science, Artificial Intelligence and Network programming.
--  &#9829;  I'm a Weeeeb..!
+-    &#9829;                                  I'm a Weeeeb..!
 - ☕ &nbsp; I believe, a perfect cup of tea can be the ultimate solution for any stress. 
 
 
