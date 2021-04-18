@@ -1,4 +1,9 @@
-### Hi there 👋!I'm Madan
+<html>
+<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+</head>
+<body>
+### Hi there 👋! I'm Madan
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -46,3 +51,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</body>
+</html>
