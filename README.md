@@ -1,6 +1,7 @@
 <html>
 <head>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<script src="https://kit.fontawesome.com/b5cff000aa.js" crossorigin="anonymous"></script>
 </head>
 <body>
 ### Hi there 👋! I'm Madan
