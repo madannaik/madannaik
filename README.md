@@ -8,8 +8,8 @@
 - 🎓 &nbsp; Pursuing B.E degree in Computer Science.
 - 💼 &nbsp; Android developer and Full-Stack web developer.
 - 🌱 &nbsp; Enthusiast in Data Science, Artificial Intelligence and Network programming.
-- ✍️ &nbsp; Watching Anime and craving for new waifus.
-- ☕ &nbsp; I belive, a perfect cup of tea can be the ultimate solution for any stress. 
+- ✍️ &nbsp; Watching Anime!
+- ☕ &nbsp; I believe, a perfect cup of tea can be the ultimate solution for any stress. 
 
 
 <h3>🛠 Tech Stack</h3>
