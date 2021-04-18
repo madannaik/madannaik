@@ -6,9 +6,9 @@
 - 🤖 &nbsp; Working on my DSA skills in C++ langauage.
 - 🤔 &nbsp; Exploring new technologies and developing websites.
 - 🎓 &nbsp; Pursuing B.E degree in Computer Science.
-- 💼 &nbsp; Android developer and Full-Stack web developer.
+- 💼 &nbsp; Flutter developer and Full-Stack web developer.
 - 🌱 &nbsp; Enthusiast in Data Science, Artificial Intelligence and Network programming.
-- ✍️ &nbsp; Watching Anime!
+-  &#9829;  I'm a Weeeeb..!
 - ☕ &nbsp; I believe, a perfect cup of tea can be the ultimate solution for any stress. 
 
 
