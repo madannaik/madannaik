@@ -14,7 +14,8 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Nodejs](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Material-UI](https://img.shields.io/badge/Material--UI-05122A?style=flat&logo=material-ui&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -42,10 +43,21 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madannaik&layout=compact)](https://github.com/madannaik/github-readme-stats)
 
 
-<h3> 📫 How to reach me: </h3>
-        - 📧 Email : naikmadan49@gmail.com <br>
+<i>Follow me around the web:</i><br>
+
+<a href="www.linkedin.com/in/madan-naik-388953177" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/madan_naik_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/madan.naik.7545/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://open.spotify.com/user/gv5pynkthrr1gfr874fvfd9me?si=a6bcb5c28fa4460b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+
+</div>
+
        
 <!--
+
+
+<h3> 📫 How to reach me: </h3>
+        - 📧 Email : naikmadan49@gmail.com <br>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning on ...
 - 👯 I’m looking to collaborate on ...
