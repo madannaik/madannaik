@@ -36,12 +36,18 @@
 
 
 
+
+
+
 [![Madan's GitHub stats](https://github-readme-stats.vercel.app/api?username=madannaik&show_icons=true&theme=dracula)](https://github.com/madannaik/github-readme-stats)
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madannaik&layout=compact)](https://github.com/madannaik/github-readme-stats)
 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madannaik&label=Profile%20views&color=0e75b6&style=flat" alt="madannaik" /> </p>
 
 <i>Follow me around the web:</i><br>
 
