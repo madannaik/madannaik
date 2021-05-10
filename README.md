@@ -24,13 +24,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PhpStorm](https://img.shields.io/badge/-Phpstorm-05122A?style=flat&logo=phpstorm&logoColor=007ACC)&nbsp;
 
-<!--
-- 💻 &nbsp; Javascript | Dart | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript 
-- 🛢 &nbsp; MySQL | Mongodb| Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PhpStorm | Visual Studio code | Git
-- 🖌️ &nbsp; Material Design | Bootstrap 
--->
 
 <br>
 
@@ -59,18 +52,7 @@
 </div>
 
        
-<!--
 
 
-<h3> 📫 How to reach me: </h3>
-        - 📧 Email : naikmadan49@gmail.com <br>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
