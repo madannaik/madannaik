@@ -1,3 +1,4 @@
+
 ### Hi there 👋! I'm Madan
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -57,9 +58,7 @@
 
 </div>
 
-<span>
-       <img src="./wave.svg" />
-</span>
+
 
 
 <!--
