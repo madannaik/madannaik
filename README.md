@@ -3,10 +3,15 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Web Development using MERN stack.
-- 🤖 &nbsp; Working on my DSA skills in C++ langauage.
+- 🤖 &nbsp; Working on my DSA skills in Java langauage.
 - 🤔 &nbsp; Exploring new technologies and developing websites.
 - 🎓 &nbsp; Pursuing B.E degree in Computer Science.
-- 💼 &nbsp; Flutter developer and Full-Stack web developer.
+- 💼 &nbsp;-FrontENd web developer.
+
+
+
+
+
 
 <h3>🛠 Tech Stack</h3>
 
@@ -28,16 +33,17 @@
 <br>
 
 
-
-
-
-
+<summary><b> Github Stats</b></summary>
+<!-- <details open> -->
+<span>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madannaik&show_icons=true&theme=dracula"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madannaik&layout=compact"/>
+</span>
+<!-- </details -->
+<!-- 
 [![Madan's GitHub stats](https://github-readme-stats.vercel.app/api?username=madannaik&show_icons=true&theme=dracula)](https://github.com/madannaik/github-readme-stats)
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madannaik&layout=compact)](https://github.com/madannaik/github-readme-stats)
-
+-->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madannaik&label=Profile%20views&color=0e75b6&style=flat" alt="madannaik" /> </p>
@@ -51,7 +57,9 @@
 
 </div>
 
-       
+<span>
+       <img src="./wave.svg" />
+</span>
 
 
 <!--
