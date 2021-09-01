@@ -37,8 +37,8 @@
 <summary><b> Github Stats</b></summary>
 <!-- <details open> -->
 <span>
-       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madannaik&show_icons=true&theme=dracula"/>
-       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madannaik&layout=compact"/>
+       <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=madannaik&show_icons=true&theme=dracula"/>
+       <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=madannaik&layout=compact"/>
 </span>
 <!-- </details -->
 <!-- 
@@ -61,7 +61,8 @@
 
 
 
-<!--
-![Material-UI](https://img.shields.io/badge/Material--UI-05122A?style=flat&logo=material-ui&logoColor=563D7C)&nbsp;
--->
 
+<!-- ![Material-UI](https://img.shields.io/badge/Material--UI-05122A?style=flat&logo=material-ui&logoColor=563D7C)&nbsp;
+
+ -->
+<img src="./" />
