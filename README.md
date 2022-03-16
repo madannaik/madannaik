@@ -7,11 +7,39 @@
 - 🤖 &nbsp; Working on my DSA skills in C++ langauage.
 - 🤔 &nbsp; Exploring new technologies and developing websites.
 - 🎓 &nbsp; Pursuing B.E degree in Computer Science.
-- 💼 &nbsp;-FrontENd web developer.
+- 💼 &nbsp;-Frontend web developer.
 
 
 
+Ongoing Projects
+| Project Title | Link | 
+| ------------- | ----------- |
+| Happy Tails   | Will be available soon   |
+| X-cart  | https://github.com/kevkanae/ecommerce-XKart  |
 
+
+Completed Projects
+| Project Title | Link |
+| ------------- | ----------- | 
+| Chat Application   | https://github.com/madannaik/react-messenger  |
+| React Reusable components  | https://github.com/madannaik/reusable-components  |
+| Students Corner  | https://github.com/madannaik/Students__Corner  |
+
+Mini Projects
+| Project Title | Link |
+| ------------- | ----------- | 
+| Pokedex   | https://github.com/madannaik/poke_dex  |
+| Analog Clock  | https://github.com/madannaik/analog-clock  |
+| Web Crawler  | https://github.com/madannaik/web-crawler  |
+
+
+Frontend Projects
+| Project Title | Link |
+| ------------- | ----------- | 
+| TimeLine DashBoard  | https://github.com/madannaik/timeline-dashboard  |
+| Payment UI  | https://github.com/madannaik/payment-ui  |
+| Term Moniter  | https://github.com/madannaik/term-monitor  |
+| Portfolio Design  | https://github.com/madannaik/Zepline-Portfolio |
 
 
 <h3>🛠 Tech Stack</h3>
