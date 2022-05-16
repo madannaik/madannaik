@@ -24,10 +24,13 @@ Completed Projects
 | Chat Application   | https://github.com/madannaik/react-messenger  |
 | React Reusable components  | https://github.com/madannaik/reusable-components  |
 | Students Corner  | https://github.com/madannaik/Students__Corner  |
+| Movie Mania  | https://github.com/madannaik/movie-mania  |
+| Giphy Clone  | https://github.com/madannaik/giphy-clone  |
 
 Mini Projects
 | Project Title | Link |
 | ------------- | ----------- | 
+| Breaking Bad  | https://github.com/madannaik/breaking-bad  |
 | Pokedex   | https://github.com/madannaik/poke_dex  |
 | Analog Clock  | https://github.com/madannaik/analog-clock  |
 | Web Crawler  | https://github.com/madannaik/web-crawler  |
