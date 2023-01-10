@@ -6,8 +6,7 @@
 - 🔭 &nbsp; I’m currently learning Web Development using MERN stack.
 - 🤖 &nbsp; Working on my DSA skills in C++ langauage.
 - 🤔 &nbsp; Exploring new technologies and developing websites.
-- 🎓 &nbsp; Pursuing B.E degree in Computer Science.
-- 💼 &nbsp;-Frontend web developer.
+- 💼 &nbsp; Working as a Full time employee in AntStack Technologies Bangalore 
 
 
 
