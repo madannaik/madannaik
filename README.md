@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Web Development using MERN stack.
+- 🔭 &nbsp; I’m currently learning Web Development using React/Next.js
 - 🤖 &nbsp; Working on my DSA skills in C++ langauage.
 - 🤔 &nbsp; Exploring new technologies and developing websites.
 - 💼 &nbsp; Working as a Full time employee in AntStack Technologies Bangalore 
