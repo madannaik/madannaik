@@ -1,40 +1,5 @@
 
 ### Hi there 👋! I'm Madan
-
-Ongoing Projects
-| Project Title | Link | 
-| ------------- | ----------- |
-| Happy Tails   | Will be available soon   |
-| X-cart  | https://github.com/kevkanae/ecommerce-XKart  |
-
-
-Completed Projects
-| Project Title | Link |
-| ------------- | ----------- | 
-| Chat Application   | https://github.com/madannaik/react-messenger  |
-| React Reusable components  | https://github.com/madannaik/reusable-components  |
-| Students Corner  | https://github.com/madannaik/Students__Corner  |
-| Movie Mania  | https://github.com/madannaik/movie-mania  |
-| Giphy Clone  | https://github.com/madannaik/giphy-clone  |
-
-Mini Projects
-| Project Title | Link |
-| ------------- | ----------- | 
-| Breaking Bad  | https://github.com/madannaik/breaking-bad  |
-| Pokedex   | https://github.com/madannaik/poke_dex  |
-| Analog Clock  | https://github.com/madannaik/analog-clock  |
-| Web Crawler  | https://github.com/madannaik/web-crawler  |
-
-
-Frontend Projects
-| Project Title | Link |
-| ------------- | ----------- | 
-| TimeLine DashBoard  | https://github.com/madannaik/timeline-dashboard  |
-| Payment UI  | https://github.com/madannaik/payment-ui  |
-| Term Moniter  | https://github.com/madannaik/term-monitor  |
-| Portfolio Design  | https://github.com/madannaik/Zepline-Portfolio |
-
-
 <h3>🛠 Tech Stack</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -49,7 +14,7 @@ Frontend Projects
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PhpStorm](https://img.shields.io/badge/-Phpstorm-05122A?style=flat&logo=phpstorm&logoColor=007ACC)&nbsp;
+
 
 
 <br>
