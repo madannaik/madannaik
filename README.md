@@ -37,6 +37,11 @@ Mid Beginer Languages for problem solving
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madannaik&label=Profile%20views&color=0e75b6&style=flat" alt="madannaik" /> </p>
+<a href="https://music.youtube.com/playlist?list=PLdkd-QRchR8YNruqzV65fj-yG0ubWNzoK&si=PvaJEv5plwF6gyJP">
+<img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)"/>
+</a>
+
+
 
 
 </div>
